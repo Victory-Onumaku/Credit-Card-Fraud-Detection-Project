@@ -5,3 +5,8 @@ A fraudulent card transaction is an unauthorised transaction that is carried out
 We will use a method to achieve this called anomaly detection. Anomaly detection(outlier analysis) is a step in data mining that identifies data points, events, and observations that deviates from a dataset's normal behaviour.
 
 We used an auto machine learning library called pycaret: Pycaret is an open source, low code machine learning library in python that allows you to go from preparing your data to deploy your model within minutes in your choice of notebook enviroment.
+
+# Timeline of the project <br>
+1) Data Analysis <br>
+2) Model building using machine learning
+3) Model building using auto Machine learning
