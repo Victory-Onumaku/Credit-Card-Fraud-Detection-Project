@@ -1,4 +1,7 @@
 # Credit-Card-Fraud-Detection-Project
+![fraud detection](![Credit-card-fraud-top](https://github.com/Victory-Onumaku/Credit-Card-Fraud-Detection-Project/assets/91481737/6907c802-2983-4877-a60d-a7f1a9f7b375)
+
+
 ## The aim of this project is to detect fraud transactions with the help of using credit card details.
 ## It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not pay for. <br>
 A fraudulent card transaction is an unauthorised transaction that is carried out with your card. The thief either physically steals your credit card, or steals your card information via phishing or credit card skimming and uses it to make payments or withdraw cash. <br>
