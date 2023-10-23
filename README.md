@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection-Project
-![fraud detection](![Credit-card-fraud-top](https://github.com/Victory-Onumaku/Credit-Card-Fraud-Detection-Project/assets/91481737/6907c802-2983-4877-a60d-a7f1a9f7b375)
+![](![Credit-card-fraud-top](https://github.com/Victory-Onumaku/Credit-Card-Fraud-Detection-Project/assets/91481737/6907c802-2983-4877-a60d-a7f1a9f7b375)
 
 
 ## The aim of this project is to detect fraud transactions with the help of using credit card details.
